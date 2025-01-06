@@ -1,6 +1,6 @@
 # Dark_OSINT
 
-(Threat Intelligence) Development of dark web information notification and OSINT collection system
+(위협 인텔리전스) 다크웹 유출 정보 알림 및 OSINT 수집 시스템 개발
 
 ### Usage
 
